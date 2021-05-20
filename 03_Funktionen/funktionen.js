@@ -90,7 +90,8 @@ function getString(firstName,familyName)
 {
     let gap = " ";
     let outputString = "Hallo " + firstName + gap + familyName + "!";
-    return outputString; // Daten ----> an die Stelle des calls     
+    return outputString; // Daten ----> an die Stelle des calls
+    console.log("huhu"); // Nach return wird die Funktion abgebrochen. Es wird kein code mehr ausgegeben
 }
 
 
