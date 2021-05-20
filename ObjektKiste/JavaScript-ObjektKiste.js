@@ -12,7 +12,7 @@ Boolean;
 // date (Zeitangabe und Datum)
 Date;
 // function (Funktion)
-Function;
+function  getString(firstName,familyName); 
 // math (mathematische Berechnungen)
 Math;
 // navigator (Informationen zum Browser)
