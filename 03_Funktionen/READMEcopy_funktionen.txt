@@ -1,9 +1,29 @@
-# 05_Funktionen_01              neuste zuerst!
+# Funktionen              neuste zuerst!
+
 
 Funktionen Regeln:
 - DRY - Don´t repeat yourself
 - Immer Camel Schreibweise verwenden! (Übersichtlicher)
 
+
+Funktionen
+Eine Funktion ist ein eigenständiger Programmteil mit 
+eigenem Namen und einem Block von Befehlen. Beim Aufruf
+können Parameter übergeben werden und die Funktion kann
+mit return Rückgabewerte erzeugen.
+
+
+Die Syntax einer Funktion lautet:
+function funktionsname (Parameter) {Befehlsblock;}
+
+
+Aufbau einer Methode:
+
+Zugriffsrecht Ergebnistyp
+              Methodenname (Parameterliste)
+              {...;
+               return Ergebniswert;
+              }
 
 Objekte:
 
@@ -36,6 +56,11 @@ Basiselemente
  Logische Operationen:
   - && = und ; || = oder ; ! = not nicht (Negation)
 
+Kontrollstrukturen
+ Entscheidungsanweisung: if - else Anweisungen
+
+Schlüsselwörter: if
+
 Kommentare: 
  // alle Zeichen in der Zeile werden ignoriert
  /* alle eingeklammerten Zeichen werden ignoriert */
@@ -43,6 +68,7 @@ Kommentare:
 
 Objekthierarchie 
 3  boolean (logische Werte (ja/nein - true/false))
+5  function (Funktion)
 8  number (numerische Werte)
 11 string (Zeichenketten) 
 
