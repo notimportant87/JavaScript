@@ -5,6 +5,14 @@ Funktionen Regeln:
 - Immer Camel Schreibweise verwenden! (Übersichtlicher)
 
 
+Aufbau einer Methode:
+
+Zugriffsrecht Ergebnistyp
+              Methodenname (Parameterliste)
+              {...;
+               return Ergebniswert;
+              }
+
 Objekte:
 
 - Vielfältige Objekte sind in JavaScript vordefiniert.
@@ -38,6 +46,8 @@ Basiselemente
 
 Kontrollstrukturen
  Entscheidungsanweisung: if - else Anweisungen
+
+Schlüsselwörter: if
 
 Kommentare: 
  // alle Zeichen in der Zeile werden ignoriert
