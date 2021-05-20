@@ -1,8 +1,20 @@
-# 05_Funktionen_01              neuste zuerst!
+# Funktionen              neuste zuerst!
+
 
 Funktionen Regeln:
 - DRY - Don´t repeat yourself
 - Immer Camel Schreibweise verwenden! (Übersichtlicher)
+
+
+Funktionen
+Eine Funktion ist ein eigenständiger Programmteil mit 
+eigenem Namen und einem Block von Befehlen. Beim Aufruf
+können Parameter übergeben werden und die Funktion kann
+mit return Rückgabewerte erzeugen.
+
+
+Die Syntax einer Funktion lautet:
+function funktionsname (Parameter) {Befehlsblock;}
 
 
 Aufbau einer Methode:
