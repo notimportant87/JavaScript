@@ -43,6 +43,7 @@ Kommentare:
 
 Objekthierarchie 
 3  boolean (logische Werte (ja/nein - true/false))
+5  function (Funktion)
 8  number (numerische Werte)
 11 string (Zeichenketten) 
 
