@@ -3,7 +3,7 @@
 
 Funktionen Regeln:
 - DRY - Don´t repeat yourself
-- Immer Camel Schreibweise verwenden! (Übersichtlicher)
+- Immer Camel(Case) Schreibweise verwenden! (Übersichtlicher)
 
 
 Funktionen
