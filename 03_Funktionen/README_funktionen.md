@@ -36,6 +36,9 @@ Basiselemente
  Logische Operationen:
   - && = und ; || = oder ; ! = not nicht (Negation)
 
+Kontrollstrukturen
+ Entscheidungsanweisung: if - else Anweisungen
+
 Kommentare: 
  // alle Zeichen in der Zeile werden ignoriert
  /* alle eingeklammerten Zeichen werden ignoriert */
