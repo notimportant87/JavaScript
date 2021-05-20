@@ -4,6 +4,8 @@
 Funktionen Regeln:
 - DRY - Don´t repeat yourself
 - Immer Camel(Case) Schreibweise verwenden! (Übersichtlicher)
+- SRP single responsibility principle (Prinzip der eindeutigen Verantwortlichkeit) Clean Code
+- Postulat: one function = one job (uncle Bob)
 
 
 Funktionen
@@ -82,4 +84,3 @@ In JavaScript muss bei der Deklaration der Variablen kein Datentyp
 zugewiesen werden. Die Zuordnung einer Variablen zu einem Datentyp 
 übernimmt JavaScript selber. Dadurch kann auch während der Laufzeit
 eines Programms der Datentyp einer Variablen geändert werden.
-
