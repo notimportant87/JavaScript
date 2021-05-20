@@ -4,6 +4,8 @@
 Funktionen Regeln:
 - DRY - Don´t repeat yourself
 - Immer Camel(Case) Schreibweise verwenden! (Übersichtlicher)
+- SRP single responsibility principle (Prinzip der eindeutigen Verantwortlichkeit) Clean Code
+- Postulat: one function = one job (uncle Bob)
 
 
 Funktionen

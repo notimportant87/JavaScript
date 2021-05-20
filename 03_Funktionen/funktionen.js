@@ -62,7 +62,7 @@ function ausgabeNamenParams(firstName, familyName) // Parameter
 /***** Funktionen 03a *****/
 // 03a. Vorbereitung
 // Postulat: one function = one job (uncle Bob) in german: Was nicht passt, wird passend gemacht!
-// SRP single responsibility principle 
+// SRP single responsibility principle Clean Code
 
 function ausgabeNamenParams2(firstName, familyName) // Parameter
 {
