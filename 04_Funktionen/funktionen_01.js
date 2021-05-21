@@ -96,7 +96,7 @@ function getString(firstName,familyName)
 
 
 /** 2.Job: Ausgabe */
-// output("hi"); // Unit-Test  TDD Test driven Development
+// output("hi"); // Unit-Test  TDD Test driven Development // call
 // output("hi"); // Unit-Test  TDD Test driven Development
 // output("hi"); // Unit-Test  TDD Test driven Development
 // output("hi"); // Unit-Test  TDD Test driven Development
