@@ -8,18 +8,14 @@
 4. Ausgabe in Konsole :: 
 */
 
-// Modul: Addition a + b | Test:
-
-function addieren(a,b) 
-{
-    let c = a + b;
-    return c;    
-}
-
-
-// Modul: Konsolenausgabe | Test:
-// ausgabe("Hallo Welt!");
-function ausgabe(outputString) 
-{
-    
-}
+// Modul: Addition a + b |  Test:
+//ausgabe(addieren(2,1));
+function addieren(a,b) {
+    return a + b; 
+ }
+ 
+ // Modul: Konsolenausgabe |  Test:
+ //ausgabe("Hallo Welt");
+ function ausgabe(outputStr) {
+     console.log(outputStr);
+ }
