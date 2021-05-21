@@ -1,4 +1,6 @@
 # 03_Entscheidungsstrukturen                neuste zuerst!
+## oder auch conditional structures / control flow
+
 
 Basiselemente
  Kontrollstrukturen
@@ -86,3 +88,11 @@ Objekthierarchie
 3  boolean (logische Werte (ja/nein - true/false))
 8  number (numerische Werte)
 11 string (Zeichenketten) 
+
+## Linksammlung:
+### if-else | if-else if
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
+
+### switch | case
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
+
