@@ -8,23 +8,35 @@
 4. Ausgabe in Konsole :: check!
 */
 
-//ausgabe(rechner(getOp(),10,4));
+// Gesamte Applikation:
+start();
+function start() {
+    ausgabe(rechner(getZahl("1"),getOp(),getZahl("2")))    
+}
+
+// Modul: Zahl 1 eingeben | Test:
+//ausgabe(getZahl1("1"));
+//ausgabe(getZahl("2"));
+function getZahl(numStr) {
+    let zahl = parseInt(prompt("Bitte Zahl " + numStr + "eingeben."))
+    
+    while (isNaN(zahl)){
+        zahl = parseInt(prompt("Das ist keine Zahl. Bitte nochmal:"));
+    } 
+    return zahl;    
+}
 
 // Modul: Operand eingeben | Test:
-ausgabe(getOp());
+//ausgabe(getOp());
 function getOp() {
     
     let op = prompt("Bitte eines der Zeichen + | - | * | / eingeben.")
   
-      if (!isOpValid(op)) { // falsche eingabe
+      while (!isOpValid(op)) { // falsche eingabe // if ersetzt else gelöscht while für if eingebaut = schleife
           op = prompt("Bitte einen korrekten Operator eingeben!")
       } 
-      else 
-      {
         return op;
-      }
-
-    }
+}
 
 // Modul: Operand überprüfen | Test:
 // ausgabe(isOpValid("+"));
