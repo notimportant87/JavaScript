@@ -51,6 +51,13 @@ Objekte:
 function ausgabeNamenParam(firstName) // Parameter
 
 
+TDD Test driven Development Testgetriebene Entwicklung: 
+ist ein Softwareentwicklungsprozess, bei dem die Softwareanforderungen vor 
+der vollständigen Softwareentwicklung in Testfälle konvertiert werden und 
+die gesamte Softwareentwicklung durch wiederholtes Testen der Software 
+anhand aller Testfälle verfolgt wird.
+output("hi"); // Unit-Test TDD Test driven Development
+
 Basiselemente
  Operationen:
   - arithmetische [ ++ -- + - * / % ]
