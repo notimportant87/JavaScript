@@ -9,10 +9,28 @@
 */
 
 // Modul: Rechenart auswählen | Test:
-ausgabe(rechner(1,1));
-function rechner(a,b) {
-    return addieren(a,b);
-    //return multiplizieren(2,2);
+ausgabe(rechner("+",10,4));
+ausgabe(rechner("-",10,4));
+ausgabe(rechner("*",10,4));
+ausgabe(rechner("/",10,4));
+ausgabe(rechner("/",10,0));
+ausgabe(rechner("#?!",10,0));
+
+
+function rechner(op,a,b) {
+   switch (op){
+       case "+":
+        return addieren(a,b);
+       case "-":
+        return subtrahieren(a,b);
+       case "*":
+        return multiplizieren(a,b);
+       case "/":
+        return dividieren(a,b);
+       default:
+           return "Irgendwas ging schief!"
+    }
+        
 }
 
 
