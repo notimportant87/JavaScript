@@ -8,6 +8,13 @@
 4. Ausgabe in Konsole :: check!
 */
 
+// Modul: Rechenart auswählen | Test:
+ausgabe(rechner(1,1));
+function rechner(a,b) {
+    return addieren(a,b);
+    //return multiplizieren(2,2);
+}
+
 
 // Modul: Division a / b | Test: | refactoring
 //ausgabe(dividieren(2,2));
