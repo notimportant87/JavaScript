@@ -15,18 +15,16 @@ ausgabe(rechner("*",10,4));
 ausgabe(rechner("/",10,4));
 ausgabe(rechner("/",10,0));
 ausgabe(rechner("#?!",10,0));
-
-
 function rechner(op,a,b) {
    switch (op){
        case "+":
-        return addieren(a,b);
+           return addieren(a,b);
        case "-":
-        return subtrahieren(a,b);
+           return subtrahieren(a,b);
        case "*":
-        return multiplizieren(a,b);
+           return multiplizieren(a,b);
        case "/":
-        return dividieren(a,b);
+           return dividieren(a,b);
        default:
            return "Irgendwas ging schief!"
     }
