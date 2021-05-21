@@ -84,3 +84,13 @@ In JavaScript muss bei der Deklaration der Variablen kein Datentyp
 zugewiesen werden. Die Zuordnung einer Variablen zu einem Datentyp 
 übernimmt JavaScript selber. Dadurch kann auch während der Laufzeit
 eines Programms der Datentyp einer Variablen geändert werden.
+
+
+
+# Linksammlung: 
+
+### Funktionen:
+- function: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function 
+
+- return: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return 
+

@@ -51,13 +51,6 @@ Objekte:
 function ausgabeNamenParam(firstName) // Parameter
 
 
-TDD Test driven Development Testgetriebene Entwicklung: 
-ist ein Softwareentwicklungsprozess, bei dem die Softwareanforderungen vor 
-der vollständigen Softwareentwicklung in Testfälle konvertiert werden und 
-die gesamte Softwareentwicklung durch wiederholtes Testen der Software 
-anhand aller Testfälle verfolgt wird.
-output("hi"); // Unit-Test TDD Test driven Development
-
 Basiselemente
  Operationen:
   - arithmetische [ ++ -- + - * / % ]
@@ -91,4 +84,12 @@ In JavaScript muss bei der Deklaration der Variablen kein Datentyp
 zugewiesen werden. Die Zuordnung einer Variablen zu einem Datentyp 
 übernimmt JavaScript selber. Dadurch kann auch während der Laufzeit
 eines Programms der Datentyp einer Variablen geändert werden.
+
+
+# Linksammlung: 
+
+### Funktionen:
+- function: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function 
+
+- return: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return 
 
