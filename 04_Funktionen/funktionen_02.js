@@ -16,15 +16,39 @@ function getOp() {
     
     let op = prompt("Bitte eines der Zeichen + | - | * | / eingeben.")
   
-      if (isOpValid(op)) {
-          return op ;
-      } else {
-          return "Bitte nochmal!"
-        }
-}
-function isOpValid(checkStr) {
-    // ...
-    return true;
+      if (!isOpValid(op)) { // falsche eingabe
+          op = prompt("Bitte einen korrekten Operator eingeben!")
+      } 
+      else 
+      {
+        return op;
+      }
+
+    }
+
+// Modul: Operand überprüfen | Test:
+// ausgabe(isOpValid("+"));
+// ausgabe(isOpValid("-"));
+// ausgabe(isOpValid("*"));
+// ausgabe(isOpValid("/"));
+// ausgabe(isOpValid("#"));
+// ausgabe(isOpValid(""));
+// ausgabe(isOpValid());
+function isOpValid(op) {
+    
+    /*
+    switch (op) {
+        case "+":
+        case "-":
+        case "*":
+        case "/":
+            return true;            
+        default:
+            return false;
+    }
+    */
+    return op == "+" || op == "-" || op == "*" || op == "/";
+
 }
 
 // Modul: Rechenart auswählen | Test:
