@@ -32,7 +32,7 @@ function getOp() {
     
     let op = prompt("Bitte eines der Zeichen + | - | * | / eingeben.")
   
-      while (!isOpValid(op)) { // falsche eingabe // if ersetzt else gelöscht while für if eingebaut = schleife
+      while (!isOpValid(op)) { // solange falsche eingabe Schleife // if ersetzt else gelöscht while für if eingebaut = schleife
           op = prompt("Bitte einen korrekten Operator eingeben!")
       } 
         return op;
