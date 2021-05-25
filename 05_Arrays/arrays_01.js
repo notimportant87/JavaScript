@@ -1,5 +1,19 @@
 /* Die Satzbau-Maschine | Arrays */
 
+/*** 1.0 Arrays */
+
+let arr;
+// arr = new Array(); // Konstruktor
+arr = []; // Literal
+arr = [2,6,7,12];
+arr = [true,false];
+arr = ["Ich","bin","Max","Mütze"];
+
+ausgabe(arr);
+ausgabe(arr.length);
+ausgabe(arr[0]); // Index, begint IMMER mit 0
+ausgabe(arr[1]);
+
 
 /*** 01. Funktionalität mit Einzelparametern */
 // --> "Ich bin Max Mütze."
