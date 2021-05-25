@@ -97,7 +97,7 @@ function getSentenceArr2(arr) {
 // Kritik | Überlegung
 // word1,word2, .... word100  :: Semantische Struktur
 // arr[0],arr[1] ... arr[n] :: Numerische Struktur (0,1,2,3 ... n)
-// --> Transformation  sematisches Problem --> numerisches Problem
+// --> Transformation  semantisches Problem --> numerisches Problem
 //ausgabe(getSentenceArr(["Ich","bin","Max","Mütze"])); // Test
 function getSentenceArr(arr) {
     let gap = " ";
