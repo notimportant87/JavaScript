@@ -1,8 +1,8 @@
 # JavaScript Basics
 
-### HTML Basics
+### HTML 
 
-### CSS Basics
+### CSS 
 
 
 #
