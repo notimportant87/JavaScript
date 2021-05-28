@@ -18,6 +18,11 @@ Programmausführung eine Interpreter-Software.
 
 Strg + Umschalttaste + I (Browser)
 
+
+#
+#
+
+
 ## Java: 
 - baut auf C++ auf
 - kleiner, portabler und leichter anwendbar als C++
