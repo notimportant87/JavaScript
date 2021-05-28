@@ -1,6 +1,9 @@
 # 07_Arrays_01
+#
+
 
 ### Arrays in JS:
+### Linksammlung
 - https://www.w3schools.com/js/js_arrays.asp
 - https://www.w3schools.com/js/js_array_methods.asp
 - https://www.w3schools.com/js/js_array_sort.asp
