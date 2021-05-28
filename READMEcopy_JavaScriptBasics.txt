@@ -9,6 +9,11 @@ werden.
 ### HyperText Markup Language (HTML)
 ermöglicht das Erstellen von Webseiten, die im World Wide Web
 unabhängig von Betriebssytemen und Browsern angezeigt werden können.
+### XML (eXtensibleMarkupLanguage)
+wird verwendet um komplexe Datenstrukturen, z.B. Warenkorbsysteme 
+oder mathematische Formeln abbilden zu können.
+XML ist keine Programmiersprache, sondern ein plattformunabhängiges 
+Austauschformat für Informationen.
 
 
 Im HTML-Code werden
