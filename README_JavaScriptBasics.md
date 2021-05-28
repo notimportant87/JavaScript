@@ -5,6 +5,11 @@
 ### CSS Basics
 
 
+
+
+
+
+
 ## JavaScript
 JavaScript (JS) wird innerhalb von HTML-Dokumenten verwendet.
 Dadurch können z.B. dynamische und interaktive Web-Seiten erzeugt 
