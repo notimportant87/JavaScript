@@ -10,11 +10,11 @@
 
 /*** Funktion mit Array als Parameter */
 // mögliche Tests:
-ausgabe(getSentence(["Ich","bin","Peter"],"S"));
-ausgabe(getSentence(["Bist","du","Peter"],"Q"));
-ausgabe(getSentence(["Ich","hätt","gern","die","Platt","von","dene","zwei","diwodaso","Spass","mache,"," habbe","Sie","die"],"Q"));
-ausgabe(getSentence(["Ich","bin"],"E"));
-ausgabe(getSentence(["Ich","bin"],"#"));
+// ausgabe(getSentence(["Ich","bin","Peter"],"S"));
+// ausgabe(getSentence(["Bist","du","Peter"],"Q"));
+// ausgabe(getSentence(["Ich","hätt","gern","die","Platt","von","dene","zwei","diwodaso","Spass","mache,"," habbe","Sie","die"],"Q"));
+// ausgabe(getSentence(["Ich","bin"],"E"));
+// ausgabe(getSentence(["Ich","bin"],"#"));
 function getSentence(arr,flag) {
     
     let gap     = " ";
