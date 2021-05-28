@@ -1,9 +1,6 @@
 # JavaScript Basics
 
 
-#
-
-
 ## HTML
 ## CSS
 
@@ -23,7 +20,8 @@ Strg + Umschalttaste + I (Browser)
 
 
 #
-
+#
+#
 
 #### Java: 
 - baut auf C++ auf
