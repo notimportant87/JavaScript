@@ -1,5 +1,6 @@
 # JavaScript Basics
-## HTML & CSS Basics
+### HTML & CSS Basics
+
 
 ## JavaScript
 JavaScript (JS) wird innerhalb von HTML-Dokumenten verwendet.
