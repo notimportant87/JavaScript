@@ -2,7 +2,7 @@
 
 ### HTML Basics
 
-###CSS Basics
+### CSS Basics
 
 
 ## JavaScript
