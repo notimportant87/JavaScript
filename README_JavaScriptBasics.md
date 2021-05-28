@@ -1,5 +1,15 @@
 # JavaScript Basics
+
+
 #
+
+
+## HTML
+## CSS
+
+
+#
+
 
 ## JavaScript
 JavaScript (JS) wird innerhalb von HTML-Dokumenten verwendet.
@@ -11,7 +21,11 @@ Programmausführung eine Interpreter-Software.
 
 Strg + Umschalttaste + I (Browser)
 
-## Java: 
+
+#
+
+
+#### Java: 
 - baut auf C++ auf
 - kleiner, portabler und leichter anwendbar als C++
 - plattformneutral
